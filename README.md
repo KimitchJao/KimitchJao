@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joao Felipe
+- 👋 Hi, I’m Joao Felipe, a.k.a Kimitch
 - 👀 I’m interested in Computing Engineering and Robotics
 - 🌱 I’m currently learning Java, SQL, R (For Data Science) and Qiskit (For Quantum Computing)
 - 💞️ I’m looking to collaborate on my future first Job, in a Internship
